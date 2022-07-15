@@ -97,7 +97,7 @@
                 <li>
                     <a href="{{ __('home') }}">
                         <i class="fa fa-list"></i>
-                        Workers List
+                        Workers Lists
                     </a>
                 </li>
                 <li>
